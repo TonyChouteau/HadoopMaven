@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="hadoop-hdfs-3.3.1-tests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-3.3.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-client-3.3.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-client-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-httpfs-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-nfs-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-rbf-3.3.1-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-rbf-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

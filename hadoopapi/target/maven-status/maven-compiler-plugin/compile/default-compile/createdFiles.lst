@@ -1,0 +1,4 @@
+org/apache/hadoop/examples/Count.class
+org/apache/hadoop/examples/DisplayFile.class
+org/apache/hadoop/examples/DisplayFolder.class
+org/apache/hadoop/examples/App.class
